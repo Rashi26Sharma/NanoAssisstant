@@ -15,19 +15,16 @@ Installation
 First, clone this repository to your local machine using:
 
 git clone https://github.com/username/nanoassistant.git
+
 Usage
 You can start the assistant by running the nanoassistant.py script:
 
 python nanoassistant.py
 The assistant will start listening for your commands. You can speak your commands, and the assistant will respond. To stop the assistant, say "goodbye".
 
-License
-This project is licensed under the terms of the MIT license. See the LICENSE file for the full license text.
 
 Contribution
 Feel free to fork this project, make some changes, and submit a pull request. All contributions are welcome!
 
 Disclaimer
 Remember to keep your OpenAI API keys secret and secure, and never expose them in your code or version control system.
-
-Note: This project is for educational purposes only. Use at your own risk.
